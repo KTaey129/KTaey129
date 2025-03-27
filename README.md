@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Taeyang Koh
 
 I'm passionate about **cloud-based data engineering**—from spinning up DynamoDB tables and RDS instances, to orchestrating real-time streaming pipelines on AWS. 
-Through hands-on projects like “Week 3 Assignment: Database Connectivity on AWS” and building entire data lakehouses with **Lake Formation + Apache Iceberg**, I've learned how to design, optimize, and troubleshoot data workflows in real-world scenarios.
+Through hands-on projects like "Database Connectivity on AWS” and building entire data lakehouses with **Lake Formation + Apache Iceberg**, I've learned how to design, optimize, and troubleshoot data workflows in real-world scenarios.
 
 ---
 
